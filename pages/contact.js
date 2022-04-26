@@ -34,6 +34,14 @@ const Contact = () => {
             <hr />
             <li>
               <h3>
+                <a href="tel:+918791941719" className={styles.a}>
+                  Phone
+                </a>
+              </h3>
+            </li>
+            <hr />
+            <li>
+              <h3>
                 <a href="https://github.com/nishusg" className={styles.a}>
                   Github
                 </a>
