@@ -34,6 +34,17 @@ const Contact = () => {
             <hr />
             <li>
               <h3>
+                <a
+                  href="https://drive.google.com/file/d/1QkWVCSqv4HRZqb2BeMU7WvRpXwv9ADf8/view?usp=sharing"
+                  className={styles.a}
+                >
+                  Resume
+                </a>
+              </h3>
+            </li>
+            <hr />
+            <li>
+              <h3>
                 <a href="tel:+918791941719" className={styles.a}>
                   Phone
                 </a>
@@ -48,6 +59,7 @@ const Contact = () => {
               </h3>
             </li>
             <hr />
+
             <li>
               <h3>
                 <a
